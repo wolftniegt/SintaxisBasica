@@ -4,8 +4,8 @@ El operador de asignación se representa con el simbolo =. Se utiliza para asign
 
 //Asignación del valor a las variables x y z
 console.log("----------------------Asignación---------------------------")
-let x=12
-let z=16
+let x = 12
+let z = 16
 
 console.log(`El valor de x es ${x} y el valor de z es ${z}`)
 
@@ -29,8 +29,8 @@ Los operadores lógicos se se utilizan para la toma de decisiones en los algorit
 
 console.log("------------------Operadores lógicos-----------------------")
 
-let valorUno=true
-let valorDos=false
+let valorUno = true
+let valorDos = false
 
 //Negación: devuelve el valor contrario de una variable booleana.
 
@@ -53,15 +53,15 @@ Permiten realizar operaciones matemáticas. Los operadores que se utilizan más 
 
 console.log("-----------------Operadores mátematicos----------------------")
 
-let a=9,
-    b=56
+let a = 9,
+    b = 56
 
 //Se pueden declarar varias variables utilizando una sola vez la palabra reservada let o var, separandolos por comas
 
-let suma = a+b, 
-    resta=a-b,
-    multiplicacion=a*b,
-    division=a/b
+let suma = a + b,
+    resta = a - b,
+    multiplicacion = a * b,
+    division = a / b
 
 console.log(`El valor de la suma es ${suma}
 El valor de la resta es ${resta}
@@ -80,12 +80,12 @@ Son los operadores que comparan el valor de variables numéricas para devolver u
 
 console.log("-----------------Operadores comparación----------------------")
 
-let mayor=a>b,
-    menor=a<b,
-    mayorIgual=a>=b,
-    menorIgual=a<=b,
-    igual=a==b,
-    distinto=a!=b
+let mayor = a > b,
+    menor = a < b,
+    mayorIgual = a >= b,
+    menorIgual = a <= b,
+    igual = a == b,
+    distinto = a != b
 
 console.log(`La variable ${a} es mayor que ${b}: ${mayor}
 La variable ${a} es menor que ${b}: ${menor}

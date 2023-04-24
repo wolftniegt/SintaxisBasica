@@ -1,7 +1,7 @@
 /*Constantes.
 Son datos que no cambian en la ejecución del código, se definen de la siguiente manera.
     const NOMBRE_CONSTANTE = valorConstante
-Por ejemplo, en mátematicas el valor de PI no cambia, es cosntante. 
+Por ejemplo, en mátematicas el valor de PI no cambia, es constante. 
 Vea el siguiente código*/
 
 const PI=3.1416
